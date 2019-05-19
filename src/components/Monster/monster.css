@@ -1,0 +1,92 @@
+.monster__name {
+  color: #082b4e;
+  font-weight: 500;
+  margin: 0 0 5px 0;
+  text-transform: capitalize;
+}
+
+.monster__hp-buttons {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 10px;
+}
+
+.btn__hp-handler {
+  padding: 8px;
+  color: #fff;
+  font-size: 0.8em;
+  border: 0;
+  text-align: center;
+  width: 100%;
+}
+
+.btn__hp-handler--minus {
+  background: #f70304;
+  border-radius: 3px 0 0 3px;
+}
+.btn__hp-handler--plus {
+  background: #31cb00;
+  border-radius: 0 3px 3px 0;
+}
+
+.monster__lifebar-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  justify-content: space-between;
+}
+
+.monster__lifebar-container .rc-progress-line {
+  width: 90%;
+  height: 12px;
+}
+
+.monster__hp {
+  color: #707380;
+}
+
+.monster__life-handler {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.monster__life-handler:last-child {
+  margin-bottom: 0;
+}
+
+.monster__life-handler input {
+  margin-bottom: 0;
+  border-right: 0;
+  border-radius: 3px 0 0 3px;
+  flex: 1;
+  height: 32px;
+}
+
+.btn__hp-damage,
+.btn__hp-restore {
+  border-radius: 0 3px 3px 0;
+  padding: 8px;
+  border-left: 0;
+  color: #000;
+  width: 20%;
+  height: 32px;
+}
+
+.monster__input-damage {
+  border-color: #fb5355;
+}
+
+.btn__hp-damage {
+  background: #fb5355;
+  border-color: #fb5355;
+}
+
+.monster__input-restore {
+  border-color: #6bce4b;
+}
+
+.btn__hp-restore {
+  background: #6bce4b;
+  border-color: #6bce4b;
+}

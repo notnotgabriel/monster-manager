@@ -1,0 +1,5 @@
+.monster-list-container {
+  min-height: calc(100vh - 64px);
+  background-color: rgb(244, 246, 248);
+  padding: 25px 0;
+}
