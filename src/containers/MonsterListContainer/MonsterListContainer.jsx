@@ -9,7 +9,7 @@ class MonstersListContainer extends React.PureComponent {
     super()
 
     this.state = {
-      monsters: [{ id: 'x', name: 'orc', totalHp: 100 }],
+      monsters: [],
     }
   }
 
