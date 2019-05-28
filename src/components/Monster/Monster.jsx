@@ -32,7 +32,7 @@ class Monster extends React.PureComponent {
   render() {
     const { name, position, totalHp } = this.props
     const { hp, damage, restore } = this.state
-    const percent = (hp * totalHp) / 100
+    const percent = (hp * 100) / totalHp
     return (
       <div className="monster">
         <p className="monster__name">{`${name} ${position}`}</p>
