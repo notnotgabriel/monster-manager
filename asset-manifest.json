@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.364da11f.chunk.css",
-    "main.js": "/static/js/main.3ecca855.chunk.js",
-    "main.js.map": "/static/js/main.3ecca855.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.af515df6.chunk.js": "/static/js/2.af515df6.chunk.js",
-    "static/js/2.af515df6.chunk.js.map": "/static/js/2.af515df6.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.466f943a0e609896338723d0257ab961.js": "/precache-manifest.466f943a0e609896338723d0257ab961.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.364da11f.chunk.css.map": "/static/css/main.364da11f.chunk.css.map",
-    "static/media/skull.6ce7f2ec.svg": "/static/media/skull.6ce7f2ec.svg"
+    "main.css": "/monster-manager/static/css/main.364da11f.chunk.css",
+    "main.js": "/monster-manager/static/js/main.b408ee72.chunk.js",
+    "main.js.map": "/monster-manager/static/js/main.b408ee72.chunk.js.map",
+    "runtime~main.js": "/monster-manager/static/js/runtime~main.4ae87212.js",
+    "runtime~main.js.map": "/monster-manager/static/js/runtime~main.4ae87212.js.map",
+    "static/js/2.af515df6.chunk.js": "/monster-manager/static/js/2.af515df6.chunk.js",
+    "static/js/2.af515df6.chunk.js.map": "/monster-manager/static/js/2.af515df6.chunk.js.map",
+    "index.html": "/monster-manager/index.html",
+    "precache-manifest.bb8abfce3f4cc5c963b6d50e8a44b6a2.js": "/monster-manager/precache-manifest.bb8abfce3f4cc5c963b6d50e8a44b6a2.js",
+    "service-worker.js": "/monster-manager/service-worker.js",
+    "static/css/main.364da11f.chunk.css.map": "/monster-manager/static/css/main.364da11f.chunk.css.map",
+    "static/media/skull.6ce7f2ec.svg": "/monster-manager/static/media/skull.6ce7f2ec.svg"
   }
 }
