@@ -2,6 +2,7 @@
   "name": "monster-manager",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://notnotgabriel.github.io/monster-manager",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "nanoid": "^2.0.2",
